@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2000b5e4-491f-40b0-a93c-6d30bbda4050" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/esercizi_svolti" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_svolti" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi_svolti/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_svolti/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi_svolti/Giorno 1/Giorno 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_svolti/Giorno 1/Giorno 1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi_svolti/Giorno 14/Giorno 14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_svolti/Giorno 14/Giorno 14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi_svolti/Giorno 15/Giorno 15.iml" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_svolti/Giorno 15/Giorno 15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi_svolti/Giorno 16/Giorno 16.iml" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_svolti/Giorno 16/Giorno 16.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi_svolti/Giorno 19/Giorno 19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_svolti/Giorno 19/Giorno 19.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi_svolti/Giorno 19/src/files/mappadirighe/MappaRighe.java" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_svolti/Giorno 19/src/files/mappadirighe/MappaRighe.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/esercizi_svolti" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2XFREW7fWlb05HKWxJXfxZ9EHYS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/macal/OneDrive/Desktop/Java Backend Developer Opinno 2023"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2000b5e4-491f-40b0-a93c-6d30bbda4050" name="Changes" comment="" />
+      <created>1698222731756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698222731756</updated>
+    </task>
+    <servers />
+  </component>
+</project>
